@@ -4,8 +4,6 @@ I am a Fresher, with almost 14 months of internship experience as a Frontend Dev
 
 When I'm not working, I love to read books, it gives me new perspectives, and I learn something new about myself and the world around me. I also love to meet new people and converse, dance is another happy activity I engage in.
 
-If you'd like to connect, feel free to DM or drop me a mail (nitikad58@gmail.com)
-
 <!--
 **nitikad58/nitikad58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
