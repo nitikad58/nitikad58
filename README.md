@@ -1,22 +1,35 @@
-### Hi, Glad to see you here!
+#### Hi, Glad to see you here! 👋
 
-I am a Fresher, with almost 14 months of internship experience as a Frontend Developer. I have an Integrated M.tech degree in Computer Science Engineering. I am a fast learner with excellent communication and technical skills, skilled in C++, HTML5, CSS3, Bootstrap, JavaScript, Angular & React.js. 
+I am an aspiring **Data Analyst** with an Integrated M.Tech degree in **Computer Science Engineering** and a strong foundation in **frontend development** and **content strategy**.
 
-When I'm not working, I love to read books, it gives me new perspectives, and I learn something new about myself and the world around me. I also love to meet new people and converse, dance is another happy activity I engage in.
+Currently, I am focused on building **data analytics projects** using:
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Viz-yellow?logo=powerbi)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+*(and optionally exploring Python for analytics)*
 
-<!--
-**nitikad58/nitikad58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### 💼 Experience Snapshot
+- **Frontend Developer Intern** – 14 months experience (till June 2022)  
+  Skilled in: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Content Writing & Strategy** – 3 years (2 years as Senior Writer, 1 year as Freelance Writer with Hellbent Software and educationals)  
+  Developed skills in research, data storytelling, and creating engaging technical and educational content.
+
+
+#### 🎯 Current Goal
+Leverage my technical background and storytelling skills to deliver **data-driven insights** that support business decisions.  
+I’m actively:
+- Learning advanced data visualization and analysis techniques
+- Creating and sharing **Power BI dashboards**
+- Strengthening my skills in **SQL**, **Excel**, and **Python**
+
+
+#### 📚 Beyond Work
+When I’m not exploring datasets, I enjoy reading books 📖, dancing 💃, and meeting new people 🤝 — each gives me fresh perspectives and keeps my creativity alive.
+
+
+📫 **Let’s Connect**  
+[LinkedIn](https://www.linkedin.com/in/nitika-dhiman-8291ab160/) • [Email](mailto:nitikad58@gmail.com) • [Portfolio](https://github.com/nitikad58/Portfolio)
 
 
