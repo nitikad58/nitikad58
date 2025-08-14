@@ -6,6 +6,7 @@ I’m an aspiring **Data Analyst** with an Integrated M.Tech in **Computer Scien
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?logo=powerbi)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-blue?logo=microsoft)
 
 
 **Past experience:**  
