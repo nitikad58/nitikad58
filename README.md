@@ -8,6 +8,7 @@ I’m an aspiring **Data Analyst** with an Integrated M.Tech in **Computer Scien
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-blue?logo=microsoft)
 
+**Check My portfolio:** [Portfolio](https://github.com/nitikad58/Portfolio)
 
 **Past experience:**  
 - 14 months as **Frontend Developer Intern** (HTML, CSS, JavaScript, Angular, React)  
@@ -17,7 +18,7 @@ I’m an aspiring **Data Analyst** with an Integrated M.Tech in **Computer Scien
 
 
 📫 **Let’s Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitika-dhiman-8291ab160/) • [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nitikad58@gmail.com) • [![Portfolio](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/nitikad58/Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitika-dhiman-8291ab160/) • [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nitikad58@gmail.com) 
 
 
 
